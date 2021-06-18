@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/alyra-defi4/static/css/main.a3487775.chunk.css",
+    "main.js": "/alyra-defi4/static/js/main.9abd3055.chunk.js",
+    "main.js.map": "/alyra-defi4/static/js/main.9abd3055.chunk.js.map",
+    "runtime-main.js": "/alyra-defi4/static/js/runtime-main.30bf0fbf.js",
+    "runtime-main.js.map": "/alyra-defi4/static/js/runtime-main.30bf0fbf.js.map",
+    "static/css/2.54c80412.chunk.css": "/alyra-defi4/static/css/2.54c80412.chunk.css",
+    "static/js/2.08b0488d.chunk.js": "/alyra-defi4/static/js/2.08b0488d.chunk.js",
+    "static/js/2.08b0488d.chunk.js.map": "/alyra-defi4/static/js/2.08b0488d.chunk.js.map",
+    "index.html": "/alyra-defi4/index.html",
+    "precache-manifest.526defc0fdc438e37549ef133ad99e96.js": "/alyra-defi4/precache-manifest.526defc0fdc438e37549ef133ad99e96.js",
+    "service-worker.js": "/alyra-defi4/service-worker.js",
+    "static/css/2.54c80412.chunk.css.map": "/alyra-defi4/static/css/2.54c80412.chunk.css.map",
+    "static/css/main.a3487775.chunk.css.map": "/alyra-defi4/static/css/main.a3487775.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30bf0fbf.js",
+    "static/css/2.54c80412.chunk.css",
+    "static/js/2.08b0488d.chunk.js",
+    "static/css/main.a3487775.chunk.css",
+    "static/js/main.9abd3055.chunk.js"
+  ]
+}
