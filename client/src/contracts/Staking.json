@@ -18767,8 +18767,8 @@
         }
       },
       "links": {},
-      "address": "0x4a01cf3BcA4126c8bF3D8A54D5dd1bb281C24d60",
-      "transactionHash": "0xeeec9bad55fc0e29a2693ebafdd8f74c48a9cc24abb634a7b2820dfe3353565a"
+      "address": "0xdf97339eD7A5868671bd855c4D259a3De3D55DB0",
+      "transactionHash": "0x201d59c16d886850d481347d14c74d21d63bd1cc746e0d7e598d68dfa53c40fb"
     },
     "1337": {
       "events": {
@@ -18887,7 +18887,7 @@
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-06-18T13:35:05.984Z",
+  "updatedAt": "2021-06-18T14:48:02.259Z",
   "networkType": "ethereum",
   "devdoc": {
     "author": "David Rochus",

@@ -14,18 +14,18 @@ git remote add origin https://github.com/DavidRochus/alyra-defi4.git
 #npm install
 
 # Deploy on Heroku
-#sed "s/\"homepage\": \"https:\/\/DavidRochus.github.io\/alyra-defi3\/\",/\"homepage\": \"\",/" package.json >package2.json;mv package2.json package.json
-cd ..
-git add .
-git commit -am "Deploy heroku"
-git subtree push --prefix client/ heroku master
-cd -
+#sed "s/\"homepage\": \"https:\/\/DavidRochus.github.io\/alyra-defi4\/\",/\"homepage\": \"\",/" package.json >package2.json;mv package2.json package.json
+#cd ..
+#git add .
+#git commit -am "Deploy heroku"
+#git subtree push --prefix client/ heroku master
+#cd -
 
 # Deploy on gh-pages
-#sed "s/\"homepage\": \"\",/\"homepage\": \"https:\/\/DavidRochus.github.io\/alyra-defi3\/\",/" package.json >package2.json;mv package2.json package.json
-#git add .
-#git commit -am "Deploy gh-pages"
-#npm run deploy
+sed "s/\"homepage\": \"\",/\"homepage\": \"https:\/\/DavidRochus.github.io\/alyra-defi4\/\",/" package.json >package2.json;mv package2.json package.json
+git add .
+git commit -am "Deploy gh-pages"
+npm run deploy
 
 
 
