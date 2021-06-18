@@ -5,8 +5,8 @@
 #git init
 
 # Link project to remote repositories
-heroku git:remote -a alyra-defi4
-#git remote add origin https://github.com/DavidRochus/alyra-defi3.git
+#heroku git:remote -a alyra-defi4
+git remote add origin https://github.com/DavidRochus/alyra-defi4.git
 
 # Create new contract and rebuild project
 #truffle migrate --network kovan --reset

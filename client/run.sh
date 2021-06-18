@@ -1,8 +1,7 @@
 #!/bin/sh
 
 npm install react-bootstrap bootstrap @openzeppelin/contracts@3.1.0 @chainlink/contracts
-#npm install --save gh-pages
-#npm install @chainlink/contracts --save
+npm install --save gh-pages
 truffle migrate --network kovan --reset
 if [ $? -ne 0 ]; then
    exit(1)
